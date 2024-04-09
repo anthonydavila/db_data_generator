@@ -17,7 +17,7 @@ Este proyecto tiene como objetivo generar datos de ejemplo para una base de dato
 
 ## Proceso de Transferencia
 
-![Proceso de transferencia](https://imgbox.com/iMedY2x0)
+![Proceso de transferencia](https://drive.google.com/file/d/1jYF0R9_MfzV0ElQ48tixGJxsme-ekFp1/view?usp=sharing)
 
 ## Contribuciones 💡
 
