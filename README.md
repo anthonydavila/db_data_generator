@@ -15,5 +15,10 @@ Este proyecto tiene como objetivo generar datos de ejemplo para una base de dato
 2. Asegúrate de tener instalados los requisitos.
 3. Ejecuta el script `insertar.py` para generar y insertar los datos en la base de datos.
 
-Contribuciones 💡
+## Proceso de Transferencia
+
+![Proceso de transferencia](https://imgbox.com/iMedY2x0)
+
+## Contribuciones 💡
+
 ¡Las contribuciones son bienvenidas! Si encuentras algún error, tienes alguna sugerencia o deseas añadir nuevas características, por favor abre un issue o una pull request.
